@@ -2,28 +2,14 @@
 
 
 #
-
 #  The Arkenstone Kernel
-
 #
-
-
-echo ""
-
-echo ""
-
-echo "The Arkenstone Kernel S5"
-
-echo ""
-
-echo ""
-
 
 clear
 
 echo ""
 echo ""
-echo "The Arkenstone Kenel"
+echo "The Arkenstone Kernel"
 echo ""
 echo ""
 
